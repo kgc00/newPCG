@@ -1,10 +1,21 @@
 fileFormatVersion: 2
 guid: eecf1a7bf038140b29b11a027af2c913
-timeCreated: 1505946569
+timeCreated: 1506215784
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - frontWall: {instanceID: 0}
+  - backWall: {instanceID: 0}
+  - leftWall: {instanceID: 0}
+  - rightWall: {instanceID: 0}
+  - roof: {instanceID: 0}
+  - frontWallRend: {instanceID: 0}
+  - backWallRend: {instanceID: 0}
+  - leftWallRend: {instanceID: 0}
+  - rightWallRend: {instanceID: 0}
+  - roofRend: {instanceID: 0}
+  - newMat: {fileID: 2100000, guid: cc0b20bddd3593447b0a36d70f339596, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

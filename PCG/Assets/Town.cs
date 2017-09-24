@@ -9,7 +9,7 @@ public class Town : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		//Create 30 houses, and 
-		for (int i = 0; i < 30; i++) {
+		for (int i = 0; i < 200; i++) {
 			//Get x,y,z positions that are "on" the town (the ground)
 			float xPos = transform.position.x + Random.Range(-transform.localScale.x/2, transform.localScale.x/2);
 			float yPos = transform.position.y;

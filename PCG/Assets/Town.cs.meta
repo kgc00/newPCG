@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: ba414594b6fc24a92a039850cdef1bfe
-timeCreated: 1505951101
+timeCreated: 1506211728
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - housePrefab: {fileID: 1554744136872190, guid: 3f5bd831fb9eebb41bbae354fd47d2d7,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
